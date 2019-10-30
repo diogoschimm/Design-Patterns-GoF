@@ -4,32 +4,32 @@ Lista do GoF organizados por família
 
 ## Criacional (5 Patterns)
 
-- Abstract Factory
-- Builder
-- Factory Method
-- Prototype
-- Singleton
+- Abstract Factory "Fábrica abstrata"
+- Builder "Construtor"
+- Factory Method "Fábrica de Métodos"
+- Prototype "Protótipo"
+- Singleton "Coisa única"
 
 ## Estrutural (7 Patterns)
 
-- Adpter
-- Bridge
-- Composite
-- Decorator
-- Facade
+- Adpter "Adaptador"
+- Bridge "Ponte"
+- Composite "Combinação"
+- Decorator "Decorador"
+- Facade "Fachada"
 - FlyWeight
-- Proxy
+- Proxy "Procurador"
 
 ## Comportamental (11 Patterns)
 
-- Chain of Responsability
-- Command
-- Interpreter
-- Iterator
-- Mediator
-- Memento
-- Observer
-- State
-- Strategy
-- Template Method
-- Visitor
+- Chain of Responsability "Cadeia de Responsabilidade"
+- Command "Comando"
+- Interpreter "Intérprete"
+- Iterator "Iterador"
+- Mediator "Mediador"
+- Memento "Recordação"
+- Observer "Observador"
+- State "Estado"
+- Strategy "Estratégia"
+- Template Method "Modelo de Método"
+- Visitor "Visitante"
